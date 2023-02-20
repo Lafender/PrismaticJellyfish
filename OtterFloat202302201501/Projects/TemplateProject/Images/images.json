@@ -1,0 +1,19 @@
+{
+    "name" : "imagename",
+    "type" : "class",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "./export.json",
+
+    "filepath" : "./image.png",
+    // .png, .svg, .jpg, .bmp, .gif, .mp4, .mp3
+
+    "images" : 
+        {
+            "image1path" : "./image1.json",
+            "image2path" : "./image2.json",
+            "image3path" : "./image3.json"
+        }
+}
