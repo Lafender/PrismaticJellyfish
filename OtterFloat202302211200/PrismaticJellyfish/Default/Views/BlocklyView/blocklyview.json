@@ -1,0 +1,55 @@
+{
+    "name" : "BlocklyView",
+    "type" : "view",
+    "description" : "A blockly playground area.",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "export.json",
+
+    "files" : {
+        "views" : 
+        {
+            "floatlayout" : "./floatlayout.json",
+            "defaultpanel" : "./panel.json",
+            "tabbedview" : "./tabbedview.json",
+            "floatdialogue" : "./dialogue.json",
+            "appearanceview" : "./appearanceview.json",
+            "jsonview" : "./jsonview.json",
+            "blocklyview" : "./blocklyview.json",
+            "floatpanel" : "./floatpanel.json",
+            "movablepanel" : "./moveablepanel.json",
+            "numberbutton" : "./numberbutton.json",
+            "textview" : "./textview.json"
+        },
+        "buttons" : 
+        {
+            "defaultbutton" : "./defaultbutton.json",
+            "exitbutton" : "./exitbutton.json",
+            "textbutton" : "./textbutton.json",
+            "newbutton" : "./newbutton.json",
+            "deletebutton" : "./deletebutton.json",
+            "runbutton" : "./runbutton.json",
+            "hamburgerbutton" : "./hamburgerbutton.json"
+        },
+        "images" : 
+        {
+            "defaultimage" : "./defaultimage.json",
+            "backgroundimage" : "./backgroundimage.json",
+            "userimage" : "./userimage.json"
+        },
+        "text" : 
+        {
+            "floattext" : "./floattext.html",
+            "floatpaneltext" : "./floatpaneltext.html",
+            "usertext" : "./usertext.html"
+        },
+        "scripts" : 
+        {
+            "linkloader" : "./linkloader.js",
+            "themeupdater" : "./themeupdater.js",
+            "userscript" : "./userscript.js"
+        }
+    }
+}
