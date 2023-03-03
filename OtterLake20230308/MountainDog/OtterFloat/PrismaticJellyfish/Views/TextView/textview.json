@@ -1,0 +1,48 @@
+{
+    "name" : "TextView",
+    "type" : "view",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "export.json",
+
+    "files" : {
+        "views" : 
+        {
+            "defaultpanel" : "./panel.json",
+            "jsonview" : "./jsonview.json",
+            "textview" : "./textview.json"
+        },
+        "buttons" : 
+        {
+            "defaultbutton" : "./defaultbutton.json",
+            "numberbutton" : "./numberbutton.json",
+            "textbutton" : "./textbutton.json"
+        },
+        "images" : 
+        {
+            "defaultimage" : "./defaultimage.json",
+            "backgroundimage" : "./backgroundimage.json",
+            "userimage" : "./userimage.json"
+        },
+        "text" : 
+        {
+            "text" : "./text.html",
+            "usertext" : "./usertext.html"
+        },
+        "scripts" : 
+        {
+            "linkloader" : "./linkloader.js",
+            "themeupdater" : "./themeupdater.js",
+            "userscript" : "./userscript.js",
+            "updatetext" : "./updatetext.js"
+        },
+        "theme" : 
+        {
+            "stylesheet" : "style.css",
+            "textstyle" : "textstyle.css",
+            "userstyle" : "userstyle.css"
+        }
+    }
+}

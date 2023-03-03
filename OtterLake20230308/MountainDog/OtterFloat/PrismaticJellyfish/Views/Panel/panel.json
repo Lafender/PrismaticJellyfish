@@ -1,0 +1,50 @@
+{
+    "name" : "Panel",
+    "type" : "view",
+    "description" : "Default Panel View",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "export.json",
+
+    "files" : {
+        "views" : 
+        {
+            "textview" : "./textview.json"
+        },
+        "buttons" : 
+        {
+            "defaultbutton" : "./defaultbutton.json",
+            "numberbutton" : "./numberbutton.json",
+            "exitbutton" : "./exitbutton.json",
+            "textbutton" : "./textbutton.json",
+            "newbutton" : "./newbutton.json",
+            "deletebutton" : "./deletebutton.json",
+            "runbutton" : "./runbutton.json",
+            "hamburgerbutton" : "./hamburgerbutton.json"
+        },
+        "images" : 
+        {
+            "defaultimage" : "./defaultimage.json",
+            "backgroundimage" : "./backgroundimage.json",
+            "userimage" : "./userimage.json"
+        },
+        "text" : 
+        {
+            "paneltext" : "./paneltext.html",
+            "usertext" : "./usertext.html"
+        },
+        "scripts" : 
+        {
+            "linkloader" : "./linkloader.js",
+            "themeupdater" : "./themeupdater.js",
+            "userscript" : "./userscript.js"
+        },
+        "theme" : 
+        {
+            "stylesheet" : "style.css",
+            "layoutcss" : "layout.css"
+        }
+    }
+}
