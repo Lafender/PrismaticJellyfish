@@ -1,0 +1,44 @@
+{
+    "name" : "FloatLayout",
+    "type" : "view",
+    "description" : "Default Layout for OtterFloat View Editor.",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "export.json",
+
+    "files" : {
+        "views" : 
+        {
+            "defaultpanel" : "./panel.json",
+            "tabbedview" : "./tabbedview.json",
+            "textview" : "./textview.json"
+        },
+        "buttons" : 
+        {
+            "defaultbutton" : "./defaultbutton.json",
+            "numberbutton" : "./numberbutton.json",
+            "hamburgerbutton" : "./hamburgerbutton.json"
+        },
+        "images" : 
+        {
+            "defaultimage" : "./defaultimage.json",
+            "backgroundimage" : "./backgroundimage.json"
+        },
+        "text" : 
+        {
+            "layouthtml" : "./floatlayout.html"
+        },
+        "scripts" : 
+        {
+            "linkloader" : "./linkloader.js",
+            "themeupdater" : "./themeupdater.js"
+        },
+        "theme" :
+        {
+            "stylesheet" : "./style.css",
+            "layoutcss" : "./floatlayout.css"
+        }
+    }
+}

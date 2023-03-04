@@ -1,0 +1,79 @@
+{
+    "name" : "PjFish",
+    "type" : "project",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "./export.json",
+
+    "files" : {
+        "viewspath" : "./Views/views.json" ,
+        "buttonspath" : "./Buttons/buttons.json",
+        "imagespath" : "./Images/images.json",
+        "textpath" : "./Text/text.json",
+        "scriptspath" : "./Scripts/scripts.json",
+        "themespath" : "./Themes/themes.json",
+        "documentationpath" : "./Documentation/documentation.json"
+    },
+    "notes" : {
+        "notesstring" : " <3 Alternative Names for : ",
+        "currentnames" : {
+            "allnames" : "Views, Buttons, Images, Text, Scripts, Themes, Documentation",
+            "viewnames" : {
+                "layout" : "",
+                "window" : "",
+                "gui" : "",
+                "box" : "",
+                "panel" : "",
+                "tab" : "",
+                "browser" : "",
+                "portal" : "",
+                "surface" : ""
+            },
+            "buttonnames" : {
+                "interface" : ""
+            },
+            "imagenames" : {
+                "media" : "",
+                "files" : ""
+            },
+            "textnames" : {
+                "content" : "",
+                "strings" : "",
+                "lists" : "",
+                "arrays" : "",
+                "data" : ""
+            },
+            "scriptnames" : {
+                "languages" : "",
+                "syntaxs" : "",
+                "machines" : "",
+                "instructions" : "",
+                "conditionals" : "",
+                "functions" : "",
+                "flow" : ""
+            },
+            "themenames" : {
+                "lense" : "",
+                "style" : ""
+            },
+            "documentationnames" : {
+                "documents" : "",
+                "tutorials" : "",
+                "reference" : "",
+                "database" : "",
+                "wiki" : "",
+                "website" : "",
+                "page" : "",
+                "expressions" : "",
+                "notes" : "",
+                "workspace" : "",
+                "sheets" : "",
+                "graphs" : ""
+            }
+        },
+        "alternativenames" : "",
+        "date": "20230303"
+    }
+}

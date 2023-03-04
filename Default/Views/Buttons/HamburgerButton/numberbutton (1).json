@@ -1,0 +1,30 @@
+{
+    "name" : "NumberButton",
+    "type" : "button",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "./export.json",
+
+    "files" : {
+        "images" : 
+        {
+            "defaultimage" : "./defaultimage.json",
+            "backgroundimage" : "./backgroundimage.json",
+            "userimage" : "./userimage.json"
+        },
+        "text" : 
+        {
+            "buttontext" : "./floattext.html",
+            "alternatetext" : "./floatpaneltext.html",
+            "usertext" : "./usertext.html"
+        },
+        "scripts" : 
+        {
+            "linkloader" : "./linkloader.js",
+            "themeupdater" : "./themeupdater.js",
+            "userscript" : "./userscript.js"
+        }
+    }
+}

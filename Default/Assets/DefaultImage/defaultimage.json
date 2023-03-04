@@ -1,0 +1,29 @@
+{
+    "name" : "defaultimage",
+    "type" : "media",
+
+    "configpath" : "./config.json",
+    "themepath" : "./theme.json",
+    "docpath" : "./documentation.html",
+    "exportpath" : "./export.json",
+
+    "filepath" : "./defaultimage.txt",
+    // .png, .svg, .jpg, .bmp, .gif, .mp4, .mp3
+
+    "images" : 
+        {
+            "image1path" : "./defaultimage.txt",
+            "image2path" : "./defaultimage.html",
+            "image3path" : "./defaultimage.svg",
+            "image4path" : "./defaultimage.png",
+            "image5path" : "./defaultimage.gif",
+            "animation" : 
+            {
+                "totalframes" : "3",
+                "fps" : "1",
+                "frame1path" : "./defaultimageframe1.jpg",
+                "frame2path" : "./defaultimageframe2.jpg",
+                "frame3path" : "./defaultimageframe3.jpg"
+            }
+        }
+}
