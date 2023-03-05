@@ -7,7 +7,7 @@ html preview now available in preview.html
 
 ***
 
-** How To see Preview **
+## How To see Preview
 
 1. Go to htmlpreview.github.io/
 
