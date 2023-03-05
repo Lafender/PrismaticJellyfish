@@ -5,8 +5,6 @@ Open Source GUI and App Creator. Web Browser Based. Uses Blockly.
 
 
 ***
-Waiting for Preview to update.
-
 html preview now available in preview.html
 
 1. Go to htmlpreview.github.io/
