@@ -1,11 +1,13 @@
 # PrismaticJellyfish
 Open Source GUI and App Creator. Web Browser Based. Uses Blockly.
 
-
+Update March 5th 2023:
+html preview now available in preview.html
 
 
 ***
-html preview now available in preview.html
+
+** How To see Preview **
 
 1. Go to htmlpreview.github.io/
 
