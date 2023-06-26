@@ -18,3 +18,11 @@ html preview now available in preview.html
 4. https://github.com/Lafender/PrismaticJellyfish/blob/main/preview.html
 
 ***
+## FAQ
+You can find Documentation, Help files, and Tutorials for PrismaticJellyfish in the ./Documents/ folder.
+or at
+https://github.com/Lafender/PrismaticJellyfish/blob/Documents/
+
+There are also notes covering computer science, math, philosophy, and other matters which are important prerequisites to understanding PrismaticJellyfish Software and Standards.
+
+***
