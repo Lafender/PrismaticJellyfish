@@ -1,7 +1,5 @@
 # Assets
 ***
-To be renamed to : "Media"
-
 will contain subfolders / sub-directories including : 
 - Raster Images
 - Vector Images
